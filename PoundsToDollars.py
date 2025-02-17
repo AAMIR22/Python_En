@@ -7,9 +7,11 @@
 
 
 Dollar_Pound_rate=1.26
-print("The current exchange rate (as of 18-feb-2025 01:50 am (+4:30 GST)) is 1 British Pounds (GBP) = 1.26 US Dollar (USD) aprox.")
-Pounds=int(input('Enter an amount in pounds: '))
+print("\nThe current exchange rate (as of 18-feb-2025 01:50 am (+4:30 GST)) is 1 British Pounds (GBP) = 1.26 US Dollar (USD) aprox.")
+Pounds=int(input('Please enter amount in pounds: '))
 Dollar=Dollar_Pound_rate*Pounds
-print("US Dollar : ",Dollar)
+print("£",Pounds,"are $",Dollar)
+
+
 
 
