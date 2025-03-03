@@ -96,7 +96,7 @@ finally:
     print("Program has finished running")
 
 
-# Exercise 7 : (score : 2) Write a Python program that prompts the user to input a filename and writes a string to that file.
+# Exercise 7 : Write a Python program that prompts the user to input a filename and writes a string to that file.
 # Use try-except blocks to handle any exceptions that might occur and print a welcome message if there is no exception occurred.
 
 print('\nExercise 7')
